@@ -44,6 +44,5 @@ int main() {
 
     simulateFIFO(pages, n, frameSize);
 
-    printf("\nProcess returned 0 (0x0) Press any key to continue.\n");
     return 0;
 }
